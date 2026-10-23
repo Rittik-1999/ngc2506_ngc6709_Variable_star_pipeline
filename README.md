@@ -91,5 +91,5 @@ See [LICENSE](LICENSE) for details.
 
 ## Archived release
 
-Version 1.0.0 is archived on Zenodo:
+Version 0.1.0 is archived on Zenodo:
 [View the archived release](https://doi.org/10.5281/zenodo.23596542).
