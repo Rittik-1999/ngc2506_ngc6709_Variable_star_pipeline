@@ -83,3 +83,8 @@ Phase figures show selected real observations near local median trends. Their ap
 Membership uses fixed proper-motion centres and parallax gates, a fitted core-plus-wing PM-density model, and a joint parallax likelihood. `p_mu`, `p_ast` and `gated_astrometric_membership_score` have distinct meanings. Secure/borderline labels follow the configured gates and thresholds; no manuscript-selected IDs enter the fits.
 
 The CMD uses one adopted reddening and true distance modulus per cluster. Corrected magnitudes at the common cluster distance support sequence comparisons; they are not individual distance estimates for field stars. The separate Gaia cross-match also retains direct positive-parallax absolute-magnitude estimates.
+
+## License
+
+This project is distributed under the BSD 3-Clause License.
+See [LICENSE](LICENSE) for details.
