@@ -88,3 +88,8 @@ The CMD uses one adopted reddening and true distance modulus per cluster. Correc
 
 This project is distributed under the BSD 3-Clause License.
 See [LICENSE](LICENSE) for details.
+
+## Archived release
+
+Version 1.0.0 is archived on Zenodo:
+[View the archived release](https://doi.org/10.5281/zenodo.23596542).
